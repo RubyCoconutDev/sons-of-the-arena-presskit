@@ -23,56 +23,34 @@ SHORT DESCRIPTION
 ﻿A small ludus is yours, and it has to reach the great games. Build the estate, pick fights from the hosts' calendar, fight off the rival. Turn-based fights on hexes: a kick drops a man, a wedge breaks a shield wall. Four classes, six weapon types, and all a man wears shows on him.
 
 FEATURES
-- Run a small ludus: build the estate plot by plot on soil that changes every game, and keep everyone fed and paid.
-- Pick your fights from the hosts’ calendar a month ahead; scouts tell you who takes the sand, and hosts remember how you treat them.
+- Run a small ludus: build the estate on soil that changes every game, and keep everyone fed and paid.
+- Pick your fights a month ahead from the hosts' calendar, different every month; scouts tell you who takes the sand, and hosts remember how you treat them, whether you show up or ignore them.
 - A rival school raids your estate with torches when you look weak, and only the men at home defend it.
-- Turn-based fights on hexes, two actions a turn: a kick or a charging formation throws a man into a pillar, a wall, a trapdoor or his own comrade.
-- Defense has a price: hold the guard and you can’t strike, carry a shield and you tire faster.
+- Formations from whoever you have: shield wall, wedge, phalanx, testudo, volley. The moment the chain breaks, it's a brawl again.
+- Turn-based fights on hexes, two actions a turn, built on counterweights: a kick knocks a man down when something stands behind him, a man on the ground can be finished by anyone, one man can't hold off two, and defense keeps you standing at the price of your strike or your stamina.
 - Staged finishers: a sword stays in the chest until a kick frees it, a greatsword takes the head off, a hammer splits a shield.
-- Four classes with their own perk branches, six weapon types, ten equipment slots, and every piece shows on the fighter.
-- Formations from whoever you have: shield wall, wedge, phalanx, testudo, volley.
+- Four classes with their own perk branches, six weapon types, a wide range of armor sets, and kit matched to a man's stats, not only to his class; every piece shows on the fighter.
 
 LONG DESCRIPTION
-﻿You have been handed a small ludus, a gladiator school on the edge of town, and the part of its young lanista. The task is one: bring the school through everything the city throws at it to the great games and prove it belongs there. That means building and counting, hiring men, winning fights, raising gladiators and finding, buying and forging their kit. Everything you put on a man shows on him in every swing.
-
+You have been handed a small ludus, a gladiator school on the edge of town, and the part of its young lanista. The task is one: bring the school through everything the city throws at it to the great games and prove it belongs there. Between the fights you build and count, hire men and forge their kit; in the fights you command them yourself, turn by turn on hexes, and everything you put on a man shows on him in every swing.
 What's in the game
-
 The ludus: building and keeping it fed
-
-You build the estate yourself, and its buildings come in two kinds. The working ones keep the school alive: bunkhouses for the workers, the farm feeds everyone who lives in the ludus, the kiln gives material to build with. Every plot has its own soil, and the soil helps or hurts: the same farm yields more on loam and less on poor land, and the soil is laid out anew in every game. The other buildings open possibilities: the barracks widens the roster, the smithy forges and melts down trophies, the hospital heals faster, the tavern brings cheap recruits. Building is expensive and not building is not an option, so resources have to be planned ahead: pay everyone, stay in the black and live through whatever next month brings.
-
+You build the estate yourself, and its buildings come in two kinds. The working ones keep the school alive: bunkhouses for the workers, the farm feeds everyone who lives in the ludus, the kiln gives material to build with. Every plot has its own soil, and the soil helps or hurts: the same farm gives more on fertile ground and less on poor, and the soil is laid out anew in every game. The other buildings open possibilities: the barracks widens the roster, the smithy forges kit and melts down trophies, the hospital heals faster, the tavern brings cheap recruits and the scouts. Building is expensive and not building is not an option, so resources have to be planned ahead: pay everyone, stay in the black and live through whatever next month brings.
 The calendar and the hosts
-
-The fights are put on by the hosts of the games, and a month ahead you decide which ones your ludus enters. A fight brings gold and trophies, and risk: lose, and men can be gone for good, and the host, disappointed, offers less next time. To have fights at all you have to show up to the hosts and win. The one you ignore you lose: he stops calling and goes to the rival ludus. A host who stands behind you gives the school money on top of the prizes, and a whole caste of hosts gives a bonus of its own. Until the scouts from your tavern have gone to look, a fight day shows only a question mark: who takes the sand, how many and with what, you learn from them.
-
+Every month the hosts of the games post a new schedule, and no two months are alike: hosts of different castes, each in his own mood, each with his own fight on offer. A month ahead you decide which ones your ludus enters, and every fight is a decision, not a farm. Enter, and you risk the men: lose, and some can be gone for good, and the disappointed host offers less next time. Ignore the invitation, and the host takes that personally too: he stops calling and goes to the rival ludus. A host who stands behind you gives the school money on top of the prizes, and a whole caste of hosts gives a bonus of its own. Until the scouts from your tavern have gone to look, a fight day shows only a question mark: who takes the sand, how many and with what, you learn from them.
 The enemy does not sleep
-
 You are not the only one pushing for the top: there is another ludus in the city. Start poaching its hosts too openly, or show weakness, and one day its men come to your estate with torches to show you what they think of you. Whoever is home that day fights them off.
-
 The fight on the hexes
-
-Fights are turn-based, on hexes, two actions a turn. The main thing done here: melee does not stand still. Two things decide how it goes.
-
-The first is the knockdown. A kick or a charging formation throws a man to the ground if a pillar, a wall, a trapdoor or his own comrade stands behind him. A man on the ground loses his turn and gets finished: against a barbarian's plain hunting spear the best armor will not save him. So you keep moving and re-forming after the lines have met, not only before.
-
-The second is the price of defense. You can take the guard: nobody moves you off your hex, but you do not strike this turn. You can carry a shield: it holds against shoves all the time, but it is heavy. A man with it tires faster and walks slower, a man out of breath gets one action instead of two, and he can go down from exhaustion alone.
-
+Fights are turn-based, on hexes, two actions a turn, and the melee never stands still. At the heart of it is a loop of counterweights that rewards a good position and punishes standing still. A kick or a charging formation knocks a man down if something stands behind him: a pillar, a wall, a trapdoor, his own comrade. A man on the ground loses his turn and is wide open: even a fighter in the best armor can be speared on the sand with a plain barbarian hunting spear. So you keep the line and never stand with your back to a wall. But splitting up is a bad idea too: one man can hardly hold off two, even if he outclasses both in skill and kit.
+The way out is defense, and it has its own price. Take the guard, and nobody moves you off your hex, but you do not strike this turn. Carry a shield, and it holds against shoves all the time, but it is heavy: the man tires faster and walks slower. A man out of breath gets one action instead of two, and after a hard push he can simply collapse from exhaustion. Every choice costs something, and the fight is about paying the right price at the right moment.
 And every blow is staged: a sword stays in the chest until a kick frees it, a greatsword takes the head off, a hammer splits a shield in half, a man on the ground gets the blade from above. The arena is a show, and the stands answer every fall.
-
 The men and their kit
-
-Four classes, and a recruit picks his at the second level. The swordsman holds the line behind a shield and answers a blow with a blow. The spearman strikes over a hex, from behind a comrade's shoulder, and sets a wall of spears nobody walks through. The archer shoots from afar, farther from high ground, and holds no zone. The mace fighter breaks through a guard and knocks pieces of armor off a man. Each class has its own perk branch, and it opens the class up differently for different jobs: as a man levels up, some perks are a choice of two, others come on their own.
-
+Four classes, and a recruit gets his at the second level, by the weapon he has been fighting with. The swordsman is the duelist, strongest one on one. The spearman strikes over a hex, from behind a comrade's shoulder, and sets a wall of spears nobody walks through. The archer shoots from afar, farther from high ground, and holds no zone. The mace fighter breaks through a guard and wrecks armor, shields included, at the worst possible moment. Each class has its own perk branch, and it opens the class up differently for different jobs: as a man levels up, some perks are a choice of two, others come on their own.
 Experience comes from the fights, and between them the estate's training pit does the work: fighters raise their stats there and learn their new perks. Who goes to a dangerous contract and who stays to grow in the sand is your call every time.
-
-A man has his own stats and his own stamina, and his kit is picked to fit them. Ten equipment slots, and every piece has a weight and properties of its own: scout leather stops almost nothing, but the man in it acts earlier and dodges more; in barbarian kit he is slower to step in but gets his breath back faster; a big shield blocks more, weighs more and eats stamina. Everything he wears shows on him and moves with him.
-
+A man has his own stats and his own stamina, and his kit is matched to them, not only to his class. A wide range of armor sets, assembled piece by piece across six armor slots, and every piece has a weight and properties of its own: light leather on a quick man acts earlier and dodges more, heavy kit on a strong one holds the blows but steps in later, a big shield blocks more, weighs more and eats stamina. Everything he wears shows on him and moves with him.
 Six weapon types, each with a fight of its own. The one-handed sword for one on one. The mace to crack open a thick opponent. The spear strikes over a hex and zones. The bow shoots from afar. The greatsword gives the most damage and catches the neighbors. The two-handed hammer splits a shield when the enemy has dug in behind shields.
-
 Formations
-
-One more layer of the tactics, and the one with the most fun in it. A formation is made of whoever you have, and each solves its own problem. The shield wall: it cannot be pushed from the front. The wedge: a run and a blow into a line, the enemy's formation breaks, the first man falls. The phalanx: spears over the front rank, a zone nobody enters. The testudo: nine shields locked into a roof, and the archers' volley bounces off it. The volley: the archers shoot together at one spot. The moment the chain breaks it is a brawl again, and you re-form under the blows.
-
+One more layer of the tactics, and the one with the most fun in it. A formation is made of whoever you have, and each solves its own problem. The shield wall: it cannot be pushed from the front. The wedge: a run and a blow into a line, the enemy's formation breaks, the first man falls. The phalanx: spears striking from behind the front rank, a zone nobody enters. The testudo: a roof of shields, and the archers' volley bounces off it. The volley: the archers shoot together at one spot. The moment the chain breaks it is a brawl again, and you re-form under the blows.
 Will you bring the school to the great games, or watch it burn?
 
 ABOUT THE DEVELOPER
